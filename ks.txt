@@ -75,6 +75,7 @@ BTV少儿,http://111.40.205.87/PLTV/88888888/224/3221225654/index.m3u8
 广西 Ⅰ 广西都市台,http://stream.cdn.liangtv.cn/live/liangtv_gxds/playlist.m3u8?wsSession=-&wsIPSercert=&wsMonitor=-1
 广西 Ⅰ 广西综艺台,http://stream.cdn.liangtv.cn/live/liangtv_gxzy/playlist.m3u8?wsSession=-&wsIPSercert=&wsMonitor=-1
 广西 Ⅰ 广西公共台,http://stream.cdn.liangtv.cn/live/liangtv_gxgg/playlist.m3u8?wsSession=-&wsIPSercert=&wsMonitor=-1
+广西 Ⅰ 广西科教台,https://hlscdn.liangtv.cn/live/56ebfc665fe14820901fc57f4d39010c/4f73108ef9064b0e9043ce113ef2c885.m3u8
 广西 Ⅰ 南宁综合台,http://24tl.qingk.cn/live/NNTV_NEWS_A.m3u8
 港台影视,#genre#
 HBO,vjms://58.215.133.185:8500:3502/live/cid=261#vjms://23.237.33.155:8500:3502/live/cid=261
